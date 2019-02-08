@@ -32,6 +32,8 @@ SECRET_KEY = '%pson30z7)5im8wonbdv5ucxn%wk%@5eu9+*)^rh^o#!1d2(oa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+SESSION_EXPIRE_AT_BROWSER_CLOSE = True
+
 ALLOWED_HOSTS = []
 
 
